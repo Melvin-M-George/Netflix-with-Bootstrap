@@ -1,0 +1,1 @@
+# This is a Responsive Netflix clone made by HTML, CSS & Bootstrap.
